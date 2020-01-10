@@ -8,8 +8,6 @@ junto con la documentación necesaria para comprender de manera simple el funcio
 
 ## ConstellaWallet
 
-![Constella](https://user-images.githubusercontent.com/292738/30509118-bf810742-9a7e-11e7-9316-2a264094bb1f.png)
-
 Wallet oficial del [Proyecto Constella](http://constella.cl).
 
 ## ¿Qué es esto?
