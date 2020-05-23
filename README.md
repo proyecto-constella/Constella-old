@@ -1,4 +1,4 @@
-# Repositorio antiguo, es un fork de Chaucha, litecoin 0.16 con DWG 3. 
+# Repositorio de Constella, es un fork de Chaucha, litecoin 0.16 con DWG 3. 
 
 ## Proyecto [Constella](http://constella.cl)
 
